@@ -18,71 +18,71 @@ b- PA1:
     Image Formation and Rigid Body Transformations
 * Problem 3: 
 Surface Rendering
-    a- Lambertian Reflectance
-    b- Blinn-Phong Reflectance
-    c- Rendering
+    i- Lambertian Reflectance
+    ii- Blinn-Phong Reflectance
+    iii- Rendering
 * Problem 4: 
 Photometric Stereo, Specularity Removal
-    a- Lambertian Photometric Stereo 
-    b- Specularity Removal
-    c- Robust Photometric Stereo
+    i- Lambertian Photometric Stereo 
+    ii- Specularity Removal
+    iii- Robust Photometric Stereo
 
 c- PA2: 
 * Problem 1: 
     Image filtering
-    a- Implementing Convolution
-    b- Convolution Theory
-    c- Template Matching
+    i- Implementing Convolution
+    ii- Convolution Theory
+    iii- Template Matching
 * Problem 2: 
     Edge detection
-    a- Smoothing 
-    b- Gradient Computation
-    c- Non-Maximum Suppression
-    d- Hysteresis Thresholding
+    i- Smoothing 
+    ii- Gradient Computation
+    iii- Non-Maximum Suppression
+    iv- Hysteresis Thresholding
 * Problem 3: 
     Corner detection 
 * Problem 4:
     Epipolar rectification and feature matching
-    a- Epipolar rectification 
-    b- Feature matching
-    c- Naive Matching
-    d- Matching using epipolar geometry
+    i- Epipolar rectification 
+    ii- Feature matching
+    iii- Naive Matching
+    iv- Matching using epipolar geometry
 
 d- PA3: 
 * Problem 1: 
     Multiscale image representations 
-    a- Gaussian Pyramid
-    b- Scale Space
+    i- Gaussian Pyramid
+    ii- Scale Space
 * Problem 2: 
     Epipolar Geometry | Uncalibrated Stereo
-    a- Fundamental matrix
-    b- Epipoles 
-    c- Epipolar Lines
-    d- Uncalibrated Stereo Image Rectification
+    i- Fundamental matrix
+    ii- Epipoles 
+    iii- Epipolar Lines
+    iv- Uncalibrated Stereo Image Rectification
 * Problem 3: 
     Fundamental Matrix Estimation with RANSAC
-    a- SIFT Feature Detection
-    b- SIFT Feature Matching
-    c- Calculate the Fundamental Matrix using RANSAC
+    i- SIFT Feature Detection
+    ii- SIFT Feature Matching
+    iii- Calculate the Fundamental Matrix using RANSAC
 * Problem 4:
     Optical Flow
-    a- Lucas-Kanade implementation
-    b- Multi-resolution Lucas-Kanade implementation
+    i- Lucas-Kanade implementation
+    ii- Multi-resolution Lucas-Kanade implementation
 
 e- PA4: 
 * Problem 1: 
     Machine Learning
-    a- Download MNIST data
-    b- Recognizing hand-written digits with Sklearn
-    c- Confusion Matrix
-    d- K-Nearest Neighbors
-    e- Principal Component Analysis (PCA) K-Nearest Neighbors (KNN)
+    i- Download MNIST data
+    ii- Recognizing haniv-written digits with Sklearn
+    iii- Confusion Matrix
+    iv- K-Nearest Neighbors
+    v- Principal Component Analysis (PCA) K-Nearest Neighbors (KNN)
 * Problem 2:
     Deep Learning
-    a- Training with PyTorch
-    b- Visualizing Weights (Single Layer Perceptron)
-    c- Multi Layer Perceptron
-    d- Convolutional Neural Network
+    i- Training with PyTorch
+    ii- Visualizing Weights (Single Layer Perceptron)
+    iii- Multi Layer Perceptron
+    iv- Convolutional Neural Network
 
 
 ### [DISCLAIMER]: This project was part of a university course, please advise your instructor before using it or check your school's academic integrity policy. 
