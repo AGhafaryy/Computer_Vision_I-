@@ -81,3 +81,6 @@ b- Visualizing Weights (Single Layer Perceptron)
 c- Multi Layer Perceptron
 d- Convolutional Neural Network
 
+
+### [DISCLAIMER]: This project was part of a university course, please advise your instructor before using it or check your school's academic integrity policy. 
+
